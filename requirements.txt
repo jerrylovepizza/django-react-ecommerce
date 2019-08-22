@@ -32,4 +32,4 @@ virtualenvwrapper-win==1.2.5
 whitenoise==3.3.1
 wrapt==1.10.11
 XlsxWriter==1.1.8
-decouple==2.1
+django-decouple==2.1
